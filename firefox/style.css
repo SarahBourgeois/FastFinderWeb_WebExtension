@@ -1,0 +1,25 @@
+body {
+    padding: 4px;
+    background-image: url("icon/background.jpg");
+}
+h1 { 
+    font-weight: bold;
+    padding-left : 4px;
+    color: black;
+    font-size: 24px;
+}
+h2 { 
+    padding-left : 8px;
+    font-weight: bold;
+    color:black;
+    font-size: 18px;
+}
+h3 { padding-left : 16px}
+h4 { padding-left : 24px}
+h5 { padding-left : 32px}
+h6 { padding-left : 40px}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
